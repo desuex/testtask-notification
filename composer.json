@@ -1,0 +1,17 @@
+{
+    "name": "desuex/testtask-notification",
+    "description": "Simple class for user email change management and email notifications",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Desuex\\TesttaskNotification\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "desuex"
+        }
+    ],
+    "require": {}
+}
